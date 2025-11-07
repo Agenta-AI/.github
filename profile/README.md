@@ -1,4 +1,4 @@
-![dark-complete-withbackground-CROPPED](https://github.com/Agenta-AI/.github/assets/4510758/4143fe50-0ab6-4ea3-a55b-9dfbc63cd610)
+<img width="2560" height="1440" alt="image (37)" src="https://github.com/user-attachments/assets/917fce18-b084-43ab-be86-c89a30cece83" />
 
 Agenta.ai is the organization responsible for Agenta, the open-source LLM developer platform.
 
