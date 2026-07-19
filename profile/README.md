@@ -1,30 +1,25 @@
 <img width="2560" height="1440" alt="image (37)" src="https://github.com/user-attachments/assets/917fce18-b084-43ab-be86-c89a30cece83" />
 
-Agenta is an open-source LLMOps platform that helps developers and product teams build reliable LLM applications.
+Agenta is the open-source workspace for building and running agents.
 
-Agenta covers the entire LLM development lifecycle: prompt management, evaluation, and observability.
+You build agents by chatting with them. You describe the work, connect the apps they need, and improve them through feedback.
 
-## Features
-### Prompt Engineering and Management
-Teams often struggle with prompt collaboration. They keep prompts in code where subject matter experts cannot edit them. Or they use spreadsheets in an unreliable process.
+You can work with your agents directly in chat and share them with your team. For recurring work, you can build background agents that run on a schedule or when an event occurs.
 
-Agenta organizes prompts for your team. Subject matter experts can collaborate with developers without touching the codebase. Developers can version prompts and deploy them to production.
+## What you can do with Agenta
 
-The playground lets teams experiment with prompts. You can load traces and test sets. You can test prompts side by side.
+- **Build agents through conversation.** Start with a real task and improve the agent through feedback.
+- **Work interactively or in the background.** Use agents in chat and build background agents for recurring work.
+- **Choose how agents run.** Select from supported harnesses, models, and subscription authentication.
+- **Keep agents inspectable.** Use readable instructions, skills, tools, MCP servers, and workspace files.
+- **Understand every run.** Use traces, versions, evaluations, usage, and estimated costs.
 
-### Evaluation
-Most teams lack a systematic evaluation process. They make random prompt changes based on vibes. Some changes improve quality but break other cases because LLMs are stochastic.
+## Get started
 
-Agenta provides one place to evaluate systematically. Teams can run three types of evaluation:
+- [Explore the Agenta repository](https://github.com/Agenta-AI/agenta)
+- [Try Agenta Cloud](https://cloud.agenta.ai)
+- [Read the documentation](https://agenta.ai/docs/)
+- [Join the Slack community](https://join.slack.com/t/agenta-hq/shared_invite/zt-37pnbp5s6-mbBrPL863d_oLB61GSNFjw)
 
-- Automatic evaluation with LLMs at scale before production
-- Human annotation where subject matter experts review results and provide feedback to AI engineers
-- Online evaluation for applications already in production
-
-Both subject matter experts and engineers can run evaluations from the UI.
-
-### Observability
-Agenta helps you understand what happens in production. You can capture user feedback through an API (thumbs up or implicit signals). You can debug agents and applications with tracing to see what happens inside them.
-
-Track costs over time. Find edge cases where things fail. Add those cases to your test sets. Have subject matter experts annotate the results.
+Agenta is open source under the MIT License.
 
