@@ -1,4 +1,4 @@
-<img width="2560" height="1440" alt="image (37)" src="https://github.com/user-attachments/assets/917fce18-b084-43ab-be86-c89a30cece83" />
+<img width="1800" height="680" alt="agenta-github-banner" src="https://github.com/user-attachments/assets/8ee4746b-9f61-493f-93a8-57ff445697d8" />
 
 Agenta is the open-source workspace for building and running agents.
 
